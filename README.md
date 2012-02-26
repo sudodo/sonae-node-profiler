@@ -11,7 +11,7 @@ This project is now on progress.
 
 ## installation
 
-~~Use npm.~~ (not registered to npm yet)
+Use npm.
 
 ## Usage
 
